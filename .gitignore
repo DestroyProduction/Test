@@ -1,0 +1,6 @@
+# Comments
+*.js 
+/cache
+form.html
+log/
+log/logs.txt
